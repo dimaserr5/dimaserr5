@@ -16,6 +16,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaserr5&theme=tokyonight" alt="mystreak"/>
 </div>
 <hr>
+<a href = "https://github.com/dimaserr5/KPP_lab3_zd1/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=dimaserr5/KPP_lab3_zd1"/>
+</a>
 
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=C713F7&width=435&lines=Anti+Scam" alt="Typing SVG" /></a>
 <div id="header" align="center">
