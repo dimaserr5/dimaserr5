@@ -24,10 +24,3 @@
   <img src = "https://contrib.rocks/image?repo=dimaserr5/KPP_lab3_zd1"/>
 </a>
 </div>
-<hr>
-
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=C713F7&width=435&lines=Anti+Scam" alt="Typing SVG" /></a>
-<div id="header" align="center">
-  <img src="https://forum.antichat.com/bdergh/7471533130471.png" width="500"/>
-</div>
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=C713F7&width=435&lines=---------" alt="Typing SVG" /></a>
