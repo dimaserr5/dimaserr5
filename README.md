@@ -19,7 +19,7 @@
 <hr>
 <div id="header" align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/3128/3128313.png" height="32"/>
-<h3 align="center"> My Best Frend<h3>
+<h3 align="center"> My Best Friend<h3>
 <a href = "https://github.com/dimaserr5/KPP_lab3_zd1/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=dimaserr5/KPP_lab3_zd1"/>
 </a>
